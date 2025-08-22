@@ -1,0 +1,107 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# environments
+env/
+venv/
+ENV/
+.venv/
+.env/
+.env
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Logs and local databases
+*.log
+*.sqlite3
+*.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Git itself
+*.orig
+
+# dotenv environment variable files
+.env
+.env.*
+
+# MyPy and other static analysis
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# PyInstaller
+*.spec
+
+# VS Code profiling
+.profile
+.prof
+
+# Pylint
+.pylint.d/
+
+# PyCharm
+__pycache__/
+*.py[cod]
+*.idea/
+
+# Mac trash
+.Trashes
+
+# Windows trash
+$RECYCLE.BIN/
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# Local configuration
+local_settings.py
+
+# tests
+tests/
